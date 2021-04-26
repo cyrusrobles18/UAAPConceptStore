@@ -1,0 +1,3 @@
+Cyrus123,12345,COSTUMER,Cyrus Robles,63 Calavite St. La Loma QC,09579559651
+Darell222,12345,ADMIN,Darell Calalang,Algeciras St. Sampaloc Manila,09846214568
+Vincent223,12345,COSTUMER,Vincent Caballa,Pasay City,09351452695
